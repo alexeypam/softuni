@@ -1,8 +1,5 @@
 Oscar - African Grey
 Oscar likes wallnuts
 Oscar likes watermelon seeds as well.
-<<<<<<< HEAD
 sunflower seeds
-=======
 Oscar must have fresh water every day 
->>>>>>> 15009e233201b0bb85b5e3aed8e72532539148dc
